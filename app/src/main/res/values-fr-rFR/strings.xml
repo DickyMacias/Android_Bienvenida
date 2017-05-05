@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <String name = "app_name"> Accueil </ string>
+    <String name = "boton_inicio"> Accueil </ string>
+    <String name = "bienvenue"> Bienvenue </ string>
+</resources>
